@@ -22,7 +22,7 @@ internship task-3 at the Prodigy InfoTech.
   - Reset Game: Click the "Reset" button to start a new game.
 
 **License**
-This project is licensed under the MIT [License]().
+This project is licensed under the MIT [License](https://jilrupani.github.io/PRODIGY_WD_03/LICENSE).
 
 Live Demo: 
-  - 
+  - https://jilrupani.github.io/PRODIGY_WD_03/Tic-Tac-Toe/index.html
