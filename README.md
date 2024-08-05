@@ -26,3 +26,8 @@ This project is licensed under the MIT [License](https://jilrupani.github.io/PRO
 
 Live Demo: 
   - https://jilrupani.github.io/PRODIGY_WD_03/Tic-Tac-Toe/index.html
+
+**Task-output-picture :**
+![3 1](https://github.com/user-attachments/assets/07030606-2156-4bd8-82e3-b71070258a6b)
+![3 2](https://github.com/user-attachments/assets/a57106b0-cc4f-40da-9b62-ee130539cb81)
+![3 3](https://github.com/user-attachments/assets/03d4ea0a-ba87-49f7-a2bf-d3328a92669a)
